@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">reoDriver</string>
+    <string name="cannot_use_save_permission">you shouldn\'t use saved permission</string>
+</resources>

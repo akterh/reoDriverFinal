@@ -1,0 +1,4 @@
+#Wed May 26 15:31:49 KGT 2021
+base.0=/home/akter/Downloads/Android-WebView-in-Kotlin-master/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
